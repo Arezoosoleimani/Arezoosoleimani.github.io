@@ -11,9 +11,9 @@ title                    : "Arezoo Soleimani-Dashtaki"
 title_separator          : "-"
 name                     : &name "Arezoo Soleimani-Dashtaki"
 description              : &description "I am a Ph.D. student in Psychological Science and Human Development at Cornell University, where I work under the supervision of Professor Robert J. Sternberg. I also holds a Ph.D. in psychology with a specialization in industrial–organizational psychology"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://arezoosoleimani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "arezoosoleimani/arezoosoleimani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Arezoo Soleimani-Dashtaki"
   avatar           : "Arezoo.jpg"
-  bio              : "Ph.D. student in Psychological Science and Human Development at Cornell University. 
-  Research interests: Wisdom, Leadership, Motivations and Needs."
+  bio              : "Ph.D. student in Psychological Science and Human Development at Cornell University. Research interests: Wisdom, Leadership, Motivations and Needs."
   location         : "Ithaca, NY, USA"
   employer         : "Cornell University"
   pubmed           : ""
