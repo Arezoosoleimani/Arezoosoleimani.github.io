@@ -6,6 +6,7 @@ collection: portfolio
 
 ## Overview
 This research program examines a common puzzle: people do not always use their full abilities. I focus on the distinction between **ability** (what a person can do) and **attitude/willingness** (what a person is inclined to do), and how this distinction depends on person–task–situation interactions.
+A central question is why people do not always deploy their abilities—this motivates my work on needs and motivation as a mechanism.
 
 ## Key contributions
 - **Effectivity and (under/over)achievement:** We argue that narrow achievement measures can misclassify students as under- or over-achieving because students may deploy their abilities in different domains or contexts. This motivates a broader, interaction-focused view of achievement.
