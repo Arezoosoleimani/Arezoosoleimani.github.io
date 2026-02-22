@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Overview
-My work in this area develops and tests a theory of human needs and motivation, with the goal of explaining—and ultimately predicting—why people behave the way they do across educational, organizational, and everyday contexts.
+My work in this area develops and tests a theory of human needs and motivation, with the goal of explaining—and ultimately predicting—why people behave the way they do across educational, organizational, and everyday contexts. This theory helps explain not only whether people use their abilities, but also what ends they pursue—connecting to my work on wisdom.
 
 ## Core idea
 We propose that specific psychological needs and motivational processes drive patterns of behavior and development. Current work focuses on empirically testing the theory’s assumptions and predictions and examining how these needs influence real-world outcomes.
