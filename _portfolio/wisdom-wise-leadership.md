@@ -4,9 +4,10 @@ excerpt: "Ability isn’t enough: this work examines how wisdom and wise leaders
 collection: portfolio
 ---
 
-This line of work builds on my broader agenda: understanding how needs and motivations shape the deployment of ability toward positive outcomes.
 ## Overview
 This research program asks: **How can leaders create positive change in the world?** I study wisdom, wise decision-making, and leadership styles that support ethical, constructive, and sustainable outcomes.
+This line of work builds on my broader agenda: understanding how needs and motivations shape the deployment of ability toward positive outcomes.
+
 
 ## Key directions
 - **Theory development:** Work proposing a framework for wisdom and wise leadership (including transformational approaches).
