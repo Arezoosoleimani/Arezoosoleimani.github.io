@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Biography
+## Biography
 ======
 
 I am a Ph.D. student in Psychological Science and Human Development at Cornell University, working under the supervision of Professor Robert J. Sternberg. I also hold a Ph.D. in psychology with a specialization in industrial–organizational psychology. My scholarship focuses on wisdom and leadership, including how wisdom develops and how it can be cultivated in individuals and organizations.
