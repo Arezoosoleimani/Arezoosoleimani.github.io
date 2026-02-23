@@ -18,7 +18,7 @@ One helpful way to explain this is to separate **ability** from **attitude**.
 **Attitude** is what a person chooses to do with those abilities—especially when situations are complex, stressful, or ambiguous.
 
 <p align="center">
-  <img src="/images/posts/a1.png" width="500">
+  <img src="/images/posts/a1.jpg" width="500">
 </p>
 
 In one of our research, we worked on something called **adaptively intelligent attitude**: the willingness to apply one’s thinking in practical, thoughtful ways in real-world contexts. It’s the difference between having capacity and using it—consistently and constructively.
