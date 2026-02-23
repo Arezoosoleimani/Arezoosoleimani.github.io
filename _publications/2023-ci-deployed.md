@@ -9,6 +9,6 @@ paperurl: "https://doi.org/10.3390/jintelligence11110212"
 citation: >
   Sternberg, R. J., Co, C., Siriner, I., Soleimani-Dashtaki, A., & Wong, C. H. (2023).
   Cultural intelligence deployed in one’s own vs. in a different culture: The same or different?
-  *Journal of Intelligence, 11*(11), 212.
+  <i>Journal of Intelligence, 11</i>(11), 212.
   https://doi.org/10.3390/jintelligence11110212
 ---
