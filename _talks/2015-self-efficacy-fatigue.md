@@ -4,7 +4,7 @@ collection: talks
 type: "Conference presentation"
 permalink: /talks/2015-self-efficacy-fatigue/
 venue: "5th Congress of Psychological Association"
-date: 2015-00-00
+date: 2015-01-01
 location: ""
 ---
 
