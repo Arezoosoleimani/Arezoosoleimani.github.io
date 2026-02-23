@@ -12,5 +12,5 @@ paperurl: "https://arezoosoleimani.github.io/files/2024-effectivity.md.pdf"
 citation: >
   Sternberg, R. J., & Soleimani-Dashtaki, A. (2025).
   Effectivity: An alternative to conceptions of gifted under- and over-achievement.
-  *Gifted Education International, 41*(2), 182–210.
+  <i>Gifted Education International, 41</i>(2), 182–210.
 ---
