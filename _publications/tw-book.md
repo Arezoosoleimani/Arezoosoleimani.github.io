@@ -2,7 +2,7 @@
 title: "The Palgrave Handbook of Transformational Wisdom"
 collection: publications
 permalink: /publication/te-palgrave-handbook
-date: 2026-04-01
+date: 2024-04-01
 venue: "Palgrave"
 status: "In Press"
 paperurl: ""
