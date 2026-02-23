@@ -3,7 +3,7 @@ title: "Transformational wisdom"
 collection: publications
 permalink: /publication/2024-transformational-wisdom
 date: 2024-01-01
-pubtype: "Paper"
+pubtype: "paper"
 venue: "Possibility Studies & Society"
 paperurl: "https://doi.org/10.1177/27538699241301927"
 excerpt: "Transformational wisdom describes how knowledge, abilities, and attitudes can be directed toward the common good in ways that create meaningful, enduring positive change."
