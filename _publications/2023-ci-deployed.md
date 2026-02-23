@@ -3,6 +3,7 @@ title: "Cultural intelligence deployed in one’s own vs. in a different culture
 collection: publications
 permalink: /publication/2023-ci-deployed
 date: 2023-11-07
+pubtype: "Paper"
 venue: "Journal of Intelligence"
 paperurl: "https://doi.org/10.3390/jintelligence11110212"
 
