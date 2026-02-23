@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <h2>Books</h2>
-{% assign books = site.publications | where: "pubtype", "Book" | sort: "date" | reverse %}
+{% assign books = site.publications | where: "pubtype", "book" | sort: "date" | reverse %}
 {% for post in books %}
   {% include archive-single.html %}
 {% endfor %}
