@@ -4,7 +4,7 @@ collection: talks
 type: "Conference presentation"
 permalink: /talks/2016-epidemiology-gas-company/
 venue: "Second HSE National Conference on Oil, Gas and Petrochemical Industries"
-date: 2016-01-01
+date: 2016-00-00
 location: ""
 ---
 
