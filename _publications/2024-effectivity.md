@@ -12,4 +12,4 @@ This paper is about why some student seem to be under- or over-achiever at schoo
 
 [Download paper here](http://academicpages.github.io/files/2024-effectivity.md.pdf)
 
-Recommended citation: Sternberg, R. J., & Soleimani Dashtaki, A. (2025). Effectivity: An alternative to conceptions of gifted under-and over-achievement. <i>Gifted <i>Education <i>International, 41<i>(2), 182-210.
+Recommended citation: Sternberg, R. J., & Soleimani Dashtaki, A. (2025). Effectivity: An alternative to conceptions of gifted under-and over-achievement. <i>Gifted Education International, 41<i>(2), 182-210.
