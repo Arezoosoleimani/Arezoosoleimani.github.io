@@ -4,7 +4,7 @@ collection: talks
 type: "Conference presentation"
 permalink: /talks/2026-tripartite-wise-management/
 venue: "SPSP (Society for Personality and Social Psychology)"
-date: 2026-01-01
+date: 2026-02-28
 location: ""
 ---
 
