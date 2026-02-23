@@ -38,3 +38,4 @@ Intelligence matters. But so does what we do with it.
 Sternberg, R. J., Soleimani Dashtaki, A., & Baydil, B. (2024).  
 *An empirical test of the concept of the adaptively intelligent attitude.*  
 **Journal of Intelligence, 12**(5), 49.
+https://doi.org/10.3390/jintelligence12050049
