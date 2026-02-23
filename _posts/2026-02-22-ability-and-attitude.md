@@ -2,10 +2,12 @@
 title: "Ability Isn’t Enough: Why Attitude Shapes How We Use Intelligence"
 date: 2026-02-22
 collection: posts
+categories: writing
 permalink: /post/ability-attitude
 excerpt: "Why intelligence alone does not guarantee good decisions—and how attitude shapes adaptive behavior."
-tags: [intelligence, motivation, education, leadership, research]
+tags: [intelligence, motivation, education, leadership]
 ---
+
 
 We often treat intelligence like a guarantee: if someone is smart, they’ll make good choices, perform well, and succeed. But real life is messier than that. We’ve all seen people with strong abilities who still make decisions that don’t match their potential—and others who may not stand out on tests but consistently handle challenges wisely.
 
